@@ -1,0 +1,5 @@
+rootProject.name = "Sceneform Demo"
+include ':app'
+include ':core'
+include ':sceneform'
+include ':ux'
